@@ -53,6 +53,10 @@ If you use or reference this work, please cite the following paper:
 - FileZilla for SFTP tests  
 - Snort 3.x (for Ubuntu-based IDS testing)
 
+## Disclaimer
+
+Any password used in the files have been utilized for testing purposes only, and have been changed / deactivated before the scripts were made open-source.
+
 ## 📬 Contact
 
 For questions or collaboration inquiries, please contact:
